@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTrainingArffFileCreator", "PokerTrainingArffFileCreator.csproj", "{CD3C7FAD-BC26-4D72-B1D1-6BDD02FB35BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3C7FAD-BC26-4D72-B1D1-6BDD02FB35BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3C7FAD-BC26-4D72-B1D1-6BDD02FB35BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3C7FAD-BC26-4D72-B1D1-6BDD02FB35BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3C7FAD-BC26-4D72-B1D1-6BDD02FB35BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE63429-68EA-4401-B480-3F47E1B8E2A1}
+	EndGlobalSection
+EndGlobal
